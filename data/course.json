@@ -1,0 +1,50 @@
+{
+  "term": "Spring",
+  "year": "2003",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Business",
+      "Accounting"
+    ],
+    [
+      "Business",
+      "Operations Management"
+    ],
+    [
+      "Business",
+      "Organizational Behavior"
+    ]
+  ],
+  "legacy_uid": "79079c89-588f-e33f-ea0b-2669d71bf31a",
+  "instructors": {
+    "content": [
+      "93ad4ebd-f0b1-5bca-4c12-8ac02a8961e1"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "25487568-4fcb-025d-1cc3-5c9d79cc2e80",
+    "website": "15-521-management-accounting-and-control-spring-2003"
+  },
+  "course_title": "Management Accounting and Control",
+  "course_description": "This course examines management accounting and related analytical methodologies for decision making and control in profit-directed organizations. It also defines product costing, budgetary control systems, and performance evaluation systems for planning, coordinating, and monitoring the performance of a business. This course defines principles of measurement and develops framework for assessing behavioral dimensions of control systems; impact of different managerial styles on motivation and performance in an organization.\n",
+  "department_numbers": [
+    "15"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "15.521",
+  "course_image_thumbnail": {
+    "content": "c374bb30-b37e-00ad-a4ff-098baf3c38b9",
+    "website": "15-521-management-accounting-and-control-spring-2003"
+  },
+  "learning_resource_types": [
+    "Lecture Notes"
+  ],
+  "site_uid": "ff4f0d28-0257-4eec-a6a5-2767e92bc9b4",
+  "site_short_id": "15.521-spring-2003",
+  "site_url_path": "courses/15-521-management-accounting-and-control-spring-2003",
+  "title": "Course Metadata"
+}
