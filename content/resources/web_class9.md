@@ -4,6 +4,8 @@ description: Cost Allocation
 file: /courses/15-521-management-accounting-and-control-spring-2003/af10961dd5e80e884f2d2115a4dca88b_web_class9.pdf
 file_size: 92337
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

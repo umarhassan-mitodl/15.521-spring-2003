@@ -4,6 +4,8 @@ description: Standard Costs
 file: /courses/15-521-management-accounting-and-control-spring-2003/51876ff739e8ddfe0f181e2b8bc9fcd4_web_class12.pdf
 file_size: 98479
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

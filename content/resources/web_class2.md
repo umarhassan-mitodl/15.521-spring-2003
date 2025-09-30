@@ -4,6 +4,8 @@ description: The Nature of Costs
 file: /courses/15-521-management-accounting-and-control-spring-2003/8dcf7c74cf93d4acf585fb96b690045a_web_class2.pdf
 file_size: 71741
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
