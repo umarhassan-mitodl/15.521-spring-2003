@@ -4,8 +4,6 @@ description: The Economics of Organizations
 file: /courses/15-521-management-accounting-and-control-spring-2003/596243cf796e5d117fd74db7ea96aaee_web_class3.pdf
 file_size: 66620
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,8 +4,6 @@ description: Introduction and Case Discussion
 file: /courses/15-521-management-accounting-and-control-spring-2003/5abedb062fcea1ae8121d650302cb2fb_web_class1.pdf
 file_size: 63440
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

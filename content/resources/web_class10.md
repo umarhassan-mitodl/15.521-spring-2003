@@ -4,8 +4,6 @@ description: Absorption Cost Systems
 file: /courses/15-521-management-accounting-and-control-spring-2003/6adb4cd535ed5d44668681d14b8ee348_web_class10.pdf
 file_size: 80079
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
